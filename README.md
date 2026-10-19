@@ -5,7 +5,7 @@
 
 **Company analyzed: The Coca-Cola Company (NYSE: KO, SEC CIK 0000021344)**. This is **NOT Coca-Cola Consolidated, Inc. (NASDAQ: COKE, CIK 0000317540)**, a distinct bottling company.
 
-> **Release status:** Research in progress. Repository stays **Private** until owner reviews the model and presentation and explicitly approves publication.
+**Release status:** Four-stage analysis prepared. Binary Excel and PowerPoint artifacts require final GitHub upload; owner review and explicit approval remain required. Repository stays **Private** until owner reviews the model and presentation and explicitly approves publication.
 
 ## Research question
 How does accounting profitability compare with actual cash conversion, and what do balance-sheet changes, operating charges, and other comprehensive income disclose about financial reporting over FY2021–FY2025?
@@ -21,7 +21,17 @@ How does accounting profitability compare with actual cash conversion, and what 
 - [Methodology](reports/methodology.md)
 - [Project scope and milestones](PROJECT_PLAN.md)
 
-Historical analysis and binary artifact links will appear only when those files are **actually committed**.
+## Current deliverables
+- [Historical accounting report](reports/historical-accounting.md)
+- [Five-year income statement](data/income-statement.csv) · [Cash flow](data/cash-flow.csv) · [Balance sheet](data/balance-sheet.csv) · [OCI](data/comprehensive-income.csv)
+- [Accounting ratio and cash conversion analysis](reports/accounting-ratios-and-cash-conversion.md)
+- [Historical reconciliation validation](quality/historical-reconciliation.md)
+- [Excel workbook description](models/README.md) — binary **pending GitHub upload**
+- [PowerPoint slide outline](presentations/presentation-outline.md) — binary **pending GitHub upload**
+- [Full presentation speaking script](presentations/speaking-script.md)
+- [Executive summary](reports/executive-summary.md) · [Release readiness](quality/release-readiness.md)
+
+Binary files are not yet in this repository. The repository remains Private.
 
 ## Disclosure and integrity
 All historical values are taken from **public SEC Form 10-K filings**, and calculated ratios and bridges are labeled separately. This is not an audit, CPA attestation, employer-endorsed report or claim of access to nonpublic Coca-Cola records. AI-assisted drafting/model preparation may be involved; the portfolio owner should verify, understand and personally present the calculations before professional use.
