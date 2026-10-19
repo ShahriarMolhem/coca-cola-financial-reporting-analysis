@@ -1,6 +1,6 @@
 # Slide Deck Outline — Coca-Cola Accounting & Financial Reporting
 
-**PowerPoint binary:** `presentations/coca_cola_accounting_presentation.pptx` — prepared outside the repository; **upload pending**.
+**PowerPoint binary:** [coca_cola_accounting_presentation.pptx](coca_cola_accounting_presentation.pptx) — uploaded original edition, verified as 10 slides with 10 notes slides, and matched with the prepared source by Git blob hash. The alternative `_styled` edition was **not** uploaded.
 
 | Slide | Topic | Most important discussion |
 |---:|---|---|
