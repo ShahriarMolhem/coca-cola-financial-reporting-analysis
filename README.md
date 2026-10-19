@@ -5,7 +5,7 @@
 
 **Company analyzed: The Coca-Cola Company (NYSE: KO, SEC CIK 0000021344)**. This is **NOT Coca-Cola Consolidated, Inc. (NASDAQ: COKE, CIK 0000317540)**, a distinct bottling company.
 
-**Release status:** Research and accounting analysis prepared. Excel uploaded and verified; original PowerPoint still awaiting GitHub upload. Owner review and explicit public-release approval remain required. Repository stays **Private** until owner reviews the model and presentation and explicitly approves publication.
+**Release status:** The portfolio files are uploaded and verified in GitHub. Final owner review and explicit public-release approval remain required; this repository is still **Private**. Repository stays **Private** until owner reviews the model and presentation and explicitly approves publication.
 
 ## Research question
 How does accounting profitability compare with actual cash conversion, and what do balance-sheet changes, operating charges, and other comprehensive income disclose about financial reporting over FY2021–FY2025?
@@ -27,11 +27,11 @@ How does accounting profitability compare with actual cash conversion, and what 
 - [Accounting ratio and cash conversion analysis](reports/accounting-ratios-and-cash-conversion.md)
 - [Historical reconciliation validation](quality/historical-reconciliation.md)
 - [Download Excel accounting model](models/coca_cola_accounting_analysis.xlsx) · [Workbook documentation](models/README.md) — **uploaded and verified**
-- [PowerPoint slide outline](presentations/presentation-outline.md) — binary **pending GitHub upload**
+- [Download original 10-slide PowerPoint](presentations/coca_cola_accounting_presentation.pptx) · [Slide outline](presentations/presentation-outline.md) — **uploaded and verified**
 - [Full presentation speaking script](presentations/speaking-script.md)
 - [Executive summary](reports/executive-summary.md) · [Release readiness](quality/release-readiness.md)
 
-The Excel workbook is now in the repository; the original PowerPoint binary is **not yet present**. The repository remains Private.
+Both the original PowerPoint and the Excel workbook are present in the repository. Their Git object hashes match the originally prepared files, and both passed OOXML archive integrity checks. The repository remains Private.
 
 ## Disclosure and integrity
 All historical values are taken from **public SEC Form 10-K filings**, and calculated ratios and bridges are labeled separately. This is not an audit, CPA attestation, employer-endorsed report or claim of access to nonpublic Coca-Cola records. AI-assisted drafting/model preparation may be involved; the portfolio owner should verify, understand and personally present the calculations before professional use.
