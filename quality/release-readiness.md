@@ -1,6 +1,6 @@
 # Release Readiness Checklist
 
-**Current state:** All text analyses ready, binary Excel and PowerPoint files prepared externally. The repository is **Private**.
+**Current state:** All text analyses ready; Excel successfully uploaded and original file identity verified. The original PowerPoint is still pending upload to the release branch. The repository is **Private**.
 
 ## Completed
 - [x] Research source register, scope and methods.
@@ -12,9 +12,9 @@
 - [x] Recruiter-oriented summary and full presentation rehearsal script.
 
 ## Before merging PR #4
-- [ ] Upload `models/coca_cola_accounting_analysis.xlsx` to branch `04-presentation-and-release`.
+- [x] Upload `models/coca_cola_accounting_analysis.xlsx` to branch `04-presentation-and-release` (Git object matched original).
 - [ ] Upload `presentations/coca_cola_accounting_presentation.pptx` to the same branch.
-- [ ] Verify file names, file integrity and sheet/slide counts on GitHub.
+- [ ] Verify file names and workbook/presentation structural integrity on GitHub (Excel presence and SHA match complete; PowerPoint missing).
 - [ ] Update READMEs to link to the real binaries.
 - [ ] Owner visually reviews and understands the report/model/deck.
 - [ ] Merge PR #4.
