@@ -2,7 +2,7 @@
 
 **Prepared workbook:** `coca_cola_accounting_analysis.xlsx` — **currently pending binary upload** to this GitHub repository.
 
-The model is designed for an undergraduate accounting/financial-reporting internship portfolio, not an audit. Its **8 worksheets** are:
+The model is designed for an undergraduate accounting/financial-reporting internship portfolio, not an audit. Its **7 worksheets** are:
 
 1. **Income Statement:** FY2021–FY2025 historical GAAP income statement source values.
 2. **Cash Flow:** FY2021–FY2025 indirect CFO statement rows, dividends and PP&E cash purchases.
