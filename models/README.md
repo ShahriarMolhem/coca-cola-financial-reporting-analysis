@@ -1,6 +1,6 @@
 # Excel Accounting Analysis Model
 
-**Prepared workbook:** `coca_cola_accounting_analysis.xlsx` — **currently pending binary upload** to this GitHub repository.
+**Uploaded workbook:** [coca_cola_accounting_analysis.xlsx](coca_cola_accounting_analysis.xlsx) — verified on the `04-presentation-and-release` branch; its Git blob SHA-1 matches the original prepared workbook.
 
 The model is designed for an undergraduate accounting/financial-reporting internship portfolio, not an audit. Its **7 worksheets** are:
 
@@ -16,4 +16,4 @@ All raw numerical inputs are source-linked hardcoded facts. Ratio calculations a
 
 **Key FY2025 workbook results:** Gross margin 61.6%, operating margin 28.7%, consolidated NI $13,137m, CFO $7,408m, gap $5,729m, and simple FCF $5,296m. Dividends and cash flow are different concepts; simple FCF here is not DCF enterprise FCFF.
 
-**Artifact release gate:** The workbook binary will be added with the PowerPoint on PR #4 after the final narrative review. No link is represented as downloadable in GitHub until the file is present there.
+**Artifact release gate:** The workbook is now linked above. The **original PowerPoint remains pending upload** to `presentations/` on PR #4. Do not merge PR #4 until the presentation is present and verified.
