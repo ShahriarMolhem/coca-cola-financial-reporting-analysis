@@ -1,6 +1,6 @@
 # Release Readiness Checklist
 
-**Current state:** All text analyses ready; Excel successfully uploaded and original file identity verified. The original PowerPoint is still pending upload to the release branch. The repository is **Private**.
+**Current state:** All report and source documents, Excel, and original PowerPoint are uploaded to the release branch. Both binary files were checked against the prepared originals and passed OOXML archive integrity validation. Repository remains **Private** pending owner publication approval.
 
 ## Completed
 - [x] Research source register, scope and methods.
@@ -13,11 +13,11 @@
 
 ## Before merging PR #4
 - [x] Upload `models/coca_cola_accounting_analysis.xlsx` to branch `04-presentation-and-release` (Git object matched original).
-- [ ] Upload `presentations/coca_cola_accounting_presentation.pptx` to the same branch.
-- [ ] Verify file names and workbook/presentation structural integrity on GitHub (Excel presence and SHA match complete; PowerPoint missing).
-- [ ] Update READMEs to link to the real binaries.
+- [x] Upload the original `presentations/coca_cola_accounting_presentation.pptx` to the same branch.
+- [x] Verify expected paths, byte-identical Git blob SHAs and archive integrity (Excel: 7 worksheets; original PowerPoint: 10 slides + 10 speaker-notes pages).
+- [x] Update README and slide outline with links to both real binaries.
 - [ ] Owner visually reviews and understands the report/model/deck.
-- [ ] Merge PR #4.
+- [ ] Merge PR #4 after final commit; keep repository Private until explicit owner publication approval.
 
 ## Prior to public release
 - [ ] Obtain owner's **explicit consent** before changing repository visibility to Public.
