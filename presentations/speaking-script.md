@@ -39,3 +39,17 @@ To summarize, this project taught me three practical accounting lessons. First, 
 - Say “consolidated net income” when explaining the indirect CFO statement; say “attributable to shareowners” when discussing the parent company's per-share earnings.
 - Pronounce **accrual** as *uh-KROO-ul*, **liquidity** as *lih-KWID-ih-tee*, **comprehensive** as *kom-prih-HEN-siv*, and **reconciliation** as *rek-on-sil-ee-AY-shun*.
 - Rehearse the reported numbers without reading, then answer: *How is net income different from cash flow? Why can't a low CFO/NI ratio alone establish fraud? What is OCI?*
+
+
+## Delivery notes: clear, confident accounting language
+
+Keep the emphasis on reconciliation. An accounting audience will value your ability to define numbers accurately and say what a ratio *doesn't* prove.
+
+- **Slide 3 → 4:** “The 2025 margin increase caught my attention, so I looked into the expense lines behind it.”
+- **Slide 5 → 6:** “The gap between earnings and cash isn't an answer by itself; the cash-flow reconciliation helps explain it.”
+- **Slide 7:** Pause after *fairlife* and the IRS deposit. Explain the year in which each affected cash flow; don't lump them together.
+- **Slide 8 → 9:** “The balance sheet helps explain liquidity; other comprehensive income adds another perspective on equity.”
+
+**Practice interview questions:** Why does the indirect cash flow statement start with consolidated net income? Why is a low CFO-to-net-income ratio not evidence of fraud? How does foreign-currency translation enter OCI?
+
+**When a detail isn't clear:** “The SEC note is the primary source. I wouldn't interpret that line without checking the disclosure and its classification.”
