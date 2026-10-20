@@ -17,7 +17,7 @@
 - [x] Verify expected paths, byte-identical Git blob SHAs and archive integrity (Excel: 7 worksheets; original PowerPoint: 10 slides + 10 speaker-notes pages).
 - [x] Update README and slide outline with links to both real binaries.
 - [ ] Owner visually reviews and understands the report/model/deck.
-- [ ] Merge PR #4 after final commit; keep repository Private until explicit owner publication approval.
+- [x] PR #4 merged; the repository remains Private pending explicit owner publication approval.
 
 ## Prior to public release
 - [ ] Obtain owner's **explicit consent** before changing repository visibility to Public.

@@ -26,7 +26,7 @@ FY2025 year-end current ratio = 31,044 / 21,281 = **1.46x**; FY2024 = 25,997 / 2
 The FY2025 net foreign-currency translation adjustment included in other comprehensive income was **+$2.868bn** versus **−$2.893bn** in 2024. Some equity movements are recorded through OCI rather than current-year net income.
 
 ## Excel workbook
-The locally developed workbook `models/coca_cola_accounting_analysis.xlsx` includes 7 worksheets: Income Statement, Cash Flow, Balance Sheet, OCI, Accounting Ratios, Validation, Notes and Sources. It is **prepared locally but not yet uploaded to GitHub**. All historical ratio calculations use actual source sheet formulas, with embedded SEC source URLs.
+The locally developed workbook `models/coca_cola_accounting_analysis.xlsx` includes 7 worksheets: Income Statement, Cash Flow, Balance Sheet, OCI, Accounting Ratios, Validation, Notes and Sources. It is [available for download here](../models/coca_cola_accounting_analysis.xlsx). All historical ratio calculations use actual source sheet formulas, with embedded SEC source URLs.
 
 ## Limitations and disclosure
 We analyze publicly reported figures; original filings and notes remain authoritative. Indirect-method reconciliation is **not an external audit**, and ratios alone cannot establish earnings manipulation or internal control deficiencies.
